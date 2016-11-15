@@ -1,0 +1,6 @@
+F:\VisualStudio\C#\01\If\If\bin\Debug\If.exe.config
+F:\VisualStudio\C#\01\If\If\bin\Debug\If.exe
+F:\VisualStudio\C#\01\If\If\bin\Debug\If.pdb
+F:\VisualStudio\C#\01\If\If\obj\Debug\If.csprojResolveAssemblyReference.cache
+F:\VisualStudio\C#\01\If\If\obj\Debug\If.exe
+F:\VisualStudio\C#\01\If\If\obj\Debug\If.pdb
